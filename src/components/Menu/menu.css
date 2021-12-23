@@ -1,0 +1,21 @@
+.menu{
+    background-color: #81a03c;
+    padding-left: 5px;
+    padding-right: 5px;
+    color: white;
+    font-size: 18px;
+    display: flex;
+    justify-content: space-between;
+}
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+}
+li{
+    margin: 10px 10px;
+}
+li:hover{
+    color: rgb(240, 169, 16);
+}
