@@ -51,3 +51,21 @@ img{
 .h2:hover{
     color: rgb(240, 169, 16);
 }
+.OneProduct{
+    max-width: 1100px;
+    margin: 10px 15px;
+    border: 1px solid #81a03c;
+    border-radius: 4px;
+    padding: 3px 3px;
+    display: flex;
+
+    flex-wrap: wrap;
+}
+.img-one{
+    width: 400px;
+    height: 400px;
+}
+.description{
+    width: 400px;
+    height: 400px;
+}

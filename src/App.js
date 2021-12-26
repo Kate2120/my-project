@@ -5,13 +5,13 @@ import Menu from './components/Menu/menu';
 import Filter from "./components/Menu/menu";
 
 
+
 function App() {
 
   return (
     <div className="App">
       <Header/>
       <Filter/>
-      
       <Footer/>
       
     </div>
